@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/18918c4a-5ced-4a26-a8ae-1a7549da5461
 
 📽️ Confira no vídeo um pouco do que essa ferramenta pode fazer!
 
+🔒🗂️Quer o código completo? Apoie! 💖 : [Torne-se um Sponsor](https://github.com/sponsors/naldodj)
+
 #TOTVS #Protheus #ExecAuto #MATA410 #ERP #Customização #DesenvolvimentoERP #DNAtech #SoluçõesInteligentes
 
 ---
